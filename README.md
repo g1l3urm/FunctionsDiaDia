@@ -1,2 +1,3 @@
 # FunctionsDiaDia
-Funções PHP utilizadas no dia a dia.
+
+Segue abaixo funções utilizadas no dia a dia em projetos PHP.
